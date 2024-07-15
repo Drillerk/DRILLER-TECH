@@ -73,8 +73,8 @@ _Termux Setup not recommended_
     <td>willydize</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/DannyAkintunde"><img src="https://avatars.githubusercontent.com/u/142972494?v=4" width="180"</td>
-    <td><a href="https://github.com/Cod3Uchiha"><img src="https://telegra.ph/file/7d1d362a15f946d427db1.jpg" width="180"</td>
+    <td><a href="https://github.com/Drillerk"><img src="https://avatars.githubusercontent.com/u/142972494?v=4" width="180"</td>
+    <td><a href="https://github.com/willydize"><img src="https://telegra.ph/file/7d1d362a15f946d427db1.jpg" width="180"</td>
   </tr>
 </table>
 
@@ -87,6 +87,6 @@ Lazak28•fixed Heroku ban
 Beltahmd•fixed sleeping problem
 ```
 
-* [🧑‍💻 Follow The Cod3Uchiha whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029VaKjSra9WtC0kuJqvl0g)
+* [🧑‍💻 Follow The Driller Tech whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029VajBxDV6rsR25P9vdt0J)
 
 
